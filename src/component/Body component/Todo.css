@@ -1,0 +1,21 @@
+#bodyz{
+    background-color: yellowgreen;
+    max-width: fit-content;
+    overflow-y: visible;
+    margin: auto;
+}
+#bodz img{
+    width: 9em;
+    height: 7em;
+}
+#bodz h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
+}
+#bodz p{
+    width: 4em;
+    height: 4em;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px;
+}

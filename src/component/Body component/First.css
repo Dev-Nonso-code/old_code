@@ -1,0 +1,17 @@
+/* form{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: brown;
+    margin: auto;
+}
+form.input{
+    overflow-x: scroll;
+    text-align: center;
+} */
+#body:hover{
+    background-color: brown;
+    transition: all 0.4s ease-in-out;
+    cursor: pointer;
+    
+}

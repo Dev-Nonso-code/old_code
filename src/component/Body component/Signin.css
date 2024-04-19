@@ -1,0 +1,11 @@
+#input{
+    justify-self: unset;
+    margin: auto;
+}
+#all{
+    height: 23em;
+    background-image: url(../Img\ component/mmt.jpg);
+    background-position:center;
+    background-size: contain;
+    background-repeat: repeat-x;
+}

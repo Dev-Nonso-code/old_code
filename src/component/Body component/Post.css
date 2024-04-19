@@ -1,0 +1,13 @@
+#contain{
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    height: 10em;
+    background-color: darksalmon;
+}
+#inputs{
+    text-align: center;
+    justify-content: center;
+    /* margin: 0px 4em 0px 0px; */
+}

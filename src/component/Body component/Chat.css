@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#form{
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
+#form div{
+    margin-left: 10em;
+    top: 10px;
+}
+
+#see{
+    height: 6em;
+    background-color: gray;
+    text-align: end;
+    color: navy;
+}

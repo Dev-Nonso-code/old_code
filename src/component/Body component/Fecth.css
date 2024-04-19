@@ -1,0 +1,37 @@
+#body{
+    background-color: magenta;
+    max-width: 35em;
+    flex-wrap: wrap;
+    display: block;
+    cursor: grab;
+}
+#body img{
+    width: 6em;
+    height: 7em;
+}
+h1{
+    cursor: pointer;
+}
+h1:hover{
+    color: darkgoldenrod;
+    transition: all 0.6s ease-in-out;
+}
+#allbody{
+    position: relative;
+}
+#allbody nav{
+    position: absolute;
+    display: block;
+    margin-top: 3em;
+    background-color: brown;
+}
+#load{
+    margin: auto;
+    text-align: center;
+    position: relative;
+}
+#load p{
+    position: absolute;
+    color: chartreuse;
+    margin: -3em 0px 1em 2em;
+}
